@@ -1,0 +1,34 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid blue;
+}
+
+#options{
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    
+}
+
+a{
+    color: white;
+}
+
+
+body{
+    padding: 0;
+    margin: 0;
+    background-color: white;
+    text-align: center;
+    text-decoration: underline;
+    background-image: url("https://reactjs.org/logo-og.png");
+    
+}
+
+
+h1{
+    color: blue;
+}
+
+
